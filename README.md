@@ -9,7 +9,7 @@ This is a MERN stack application that allows the user to search for a book and s
 * [Deployment](#Deployment)
 * [Built With](#built-with)
 * [License](#License)
-* [Contact](#Questions?)
+* [Contact](#Contact)
 ## Installation
 To start using this Book Search Engine you must follow these instructions:
 
@@ -41,7 +41,7 @@ A user can search for new books to read and save ones they are interested in so 
 * [MongoDB](https://www.mongodb.com/) - A popular NoSQL database management program.
 * [Express](https://expressjs.com/) - A Node.js web application server framework used to build web applications. 
 * [React.js](https://reactjs.org/) - A JavaScript Library used for building user interfaces.
-* [Node.js](https://nodejs.dev/learn/) - Node.js is an open-source, low-level, back-end JavaScript runtime platform that uses asynchronous programming and is a popular tool for almost any kind of project!.
+* [Node.js](https://nodejs.dev/learn/) - Node.js is an open-source, low-level, back-end JavaScript runtime platform that uses asynchronous programming and is a popular tool for almost any kind of project!
 * [Google Books API](https://developers.google.com/books) - An API that allows applications to retrieve book information from Google Books.
 
 ## License
