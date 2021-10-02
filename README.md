@@ -30,6 +30,7 @@ A user can search for new books to read and save ones they are interested in so 
 ## Demo
 <img src="./client/public/imgs/homepage.png" alt="homepage" style="height: 40rem ; width:40 rem;"/>
 <img src="./client/public/imgs/savedbooks.png" alt="saved books" style="height: 40rem ; width:40 rem;"/>
+
 ## Deployment
 - [Deployed Application](https://arcane-beyond-08361.herokuapp.com/)
 - [Github Repo](https://github.com/akays89/bookSearch)
