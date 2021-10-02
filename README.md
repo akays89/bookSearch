@@ -27,6 +27,7 @@ Once you run the above command it will invoke frontend and backend server and th
  
 ## Usage
 A user can search for new books to read and save ones they are interested in so that they can keep a list of books to possibly purchase.
+
 ## Demo
 <img src="./client/public/imgs/homepage.png" alt="homepage" style="height: 40rem ; width:40 rem;"/>
 <img src="./client/public/imgs/savedbooks.png" alt="saved books" style="height: 40rem ; width:40 rem;"/>
